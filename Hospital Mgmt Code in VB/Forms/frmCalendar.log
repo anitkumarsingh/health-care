@@ -1,0 +1,25 @@
+Line 35: Class MSACAL.Calendar of control cldrSystemCalendar was not a loaded control class.
+Line 41: The property name _Version in cldrSystemCalendar is invalid.
+Line 42: The property name _ExtentX in cldrSystemCalendar is invalid.
+Line 43: The property name _ExtentY in cldrSystemCalendar is invalid.
+Line 44: The property name _StockProps in cldrSystemCalendar is invalid.
+Line 46: The property name Year in cldrSystemCalendar is invalid.
+Line 47: The property name Month in cldrSystemCalendar is invalid.
+Line 48: The property name Day in cldrSystemCalendar is invalid.
+Line 49: The property name DayLength in cldrSystemCalendar is invalid.
+Line 50: The property name MonthLength in cldrSystemCalendar is invalid.
+Line 51: The property name DayFontColor in cldrSystemCalendar is invalid.
+Line 52: The property name FirstDay in cldrSystemCalendar is invalid.
+Line 53: The property name GridCellEffect in cldrSystemCalendar is invalid.
+Line 54: The property name GridFontColor in cldrSystemCalendar is invalid.
+Line 55: The property name GridLinesColor in cldrSystemCalendar is invalid.
+Line 56: The property name ShowDateSelectors in cldrSystemCalendar is invalid.
+Line 57: The property name ShowDays in cldrSystemCalendar is invalid.
+Line 58: The property name ShowHorizontalGrid in cldrSystemCalendar is invalid.
+Line 59: The property name ShowTitle in cldrSystemCalendar is invalid.
+Line 60: The property name ShowVerticalGrid in cldrSystemCalendar is invalid.
+Line 61: The property name TitleFontColor in cldrSystemCalendar is invalid.
+Line 62: The property name ValueIsNull in cldrSystemCalendar is invalid.
+Line 71: The property name DayFont in cldrSystemCalendar is invalid.
+Line 80: The property name GridFont in cldrSystemCalendar is invalid.
+Line 89: The property name TitleFont in cldrSystemCalendar is invalid.

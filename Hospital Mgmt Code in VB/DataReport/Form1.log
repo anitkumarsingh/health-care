@@ -1,0 +1,25 @@
+Line 52: Class MSACAL.Calendar of control Calendar1 was not a loaded control class.
+Line 58: The property name _Version in Calendar1 is invalid.
+Line 59: The property name _ExtentX in Calendar1 is invalid.
+Line 60: The property name _ExtentY in Calendar1 is invalid.
+Line 61: The property name _StockProps in Calendar1 is invalid.
+Line 63: The property name Year in Calendar1 is invalid.
+Line 64: The property name Month in Calendar1 is invalid.
+Line 65: The property name Day in Calendar1 is invalid.
+Line 66: The property name DayLength in Calendar1 is invalid.
+Line 67: The property name MonthLength in Calendar1 is invalid.
+Line 68: The property name DayFontColor in Calendar1 is invalid.
+Line 69: The property name FirstDay in Calendar1 is invalid.
+Line 70: The property name GridCellEffect in Calendar1 is invalid.
+Line 71: The property name GridFontColor in Calendar1 is invalid.
+Line 72: The property name GridLinesColor in Calendar1 is invalid.
+Line 73: The property name ShowDateSelectors in Calendar1 is invalid.
+Line 74: The property name ShowDays in Calendar1 is invalid.
+Line 75: The property name ShowHorizontalGrid in Calendar1 is invalid.
+Line 76: The property name ShowTitle in Calendar1 is invalid.
+Line 77: The property name ShowVerticalGrid in Calendar1 is invalid.
+Line 78: The property name TitleFontColor in Calendar1 is invalid.
+Line 79: The property name ValueIsNull in Calendar1 is invalid.
+Line 88: The property name DayFont in Calendar1 is invalid.
+Line 97: The property name GridFont in Calendar1 is invalid.
+Line 106: The property name TitleFont in Calendar1 is invalid.
